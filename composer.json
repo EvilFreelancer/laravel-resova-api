@@ -2,6 +2,14 @@
   "name": "evilfreelancer/laravel-resova-api",
   "description": "Laravel package of Resova API PHP client",
   "type": "library",
+  "keywords": [
+    "laravel",
+    "package",
+    "resova",
+    "api",
+    "client",
+    "facade"
+  ],
   "require": {
     "php": "^7.1",
     "evilfreelancer/resova-api-php": "^1.1"
@@ -35,5 +43,8 @@
         "ResovaApi": "ResovaApi\\ResovaApiFacade"
       }
     }
+  },
+  "scripts": {
+    "test": "./vendor/bin/phpunit"
   }
 }
