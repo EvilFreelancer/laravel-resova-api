@@ -1,5 +1,5 @@
 {
-  "name": "evilfreelancer/laravel-resova-api-php",
+  "name": "evilfreelancer/laravel-resova-api",
   "description": "Laravel package of Resova API PHP client",
   "type": "library",
   "require": {
